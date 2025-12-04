@@ -62,5 +62,3 @@ By default server runs on port 3000.
 1. If group preference exists and enabled is false -> allowed false
 2. Else if topic preference exists and channels[channel] === true -> allowed true
 3. Else -> allowed false
-
-Note: The assignment requires default blocked for topic/channel when not set. We follow that behavior.
